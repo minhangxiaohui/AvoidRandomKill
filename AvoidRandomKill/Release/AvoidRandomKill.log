@@ -1,0 +1,8 @@
+﻿  AES.cpp
+  test.cpp
+C:\Users\ga0weI03\VisualStudioProject\AvoidRandomKill\AvoidRandomKill\test.cpp(56,9): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“LPVOID”
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 142 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  AvoidRandomKill.vcxproj -> C:\Users\ga0weI03\VisualStudioProject\AvoidRandomKill\Release\AvoidRandomKill.exe
